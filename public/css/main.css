@@ -3,9 +3,8 @@ body {
     display: flex; 
     flex-direction: column;
     justify-content: center; 
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-family:'Times New Roman', Times, serif;
     font-weight: 300;
-    color: #fff;
     text-align:center;
 }
 
